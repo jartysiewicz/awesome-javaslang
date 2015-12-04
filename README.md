@@ -4,6 +4,9 @@ A list of awesome frameworks, libraries and software that is powered by Javaslan
 
 - [Awesome Javaslang](#awesome-javaslang)
     - [javaslang-jackson](#javaslang-jackson)
+    - [javaslang-circuitbreaker](#javaslang-circuitbreaker)
+    - [cyclops-javaslang](#cyclops-javaslang)
+    - [micro-javaslang](#micro-javaslang)
 - [Contributing](#contributing)
 
 ## [javaslang-jackson](https://github.com/javaslang/javaslang-jackson)
