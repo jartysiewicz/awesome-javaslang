@@ -8,6 +8,8 @@ A list of awesome frameworks, libraries and software that is powered by Javaslan
 
 ## [javaslang-jackson](https://github.com/javaslang/javaslang-jackson)
 
+## [javaslang-circuitbreaker] https://github.com/RobWin/javaslang-circuitbreaker
+
 Jackson datatype module for Javaslang library.
 
 # Contributing
