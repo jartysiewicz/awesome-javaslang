@@ -1,5 +1,7 @@
 # Awesome Javaslang
 
+A list of awesome frameworks, libraries and software that is powered by Javaslang.
+
 - [Awesome Javaslang](#awesome-javaslang)
     - [javaslang-jackson](#javaslang-jackson)
 - [Contributing](#contributing)
