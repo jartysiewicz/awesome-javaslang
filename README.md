@@ -8,6 +8,7 @@ A list of awesome frameworks, libraries and software that is powered by Javaslan
     - [cyclops-javaslang](#cyclops-javaslang)
     - [derive4j](#derive4j)
     - [micro-javaslang](#micro-javaslang)
+    - [paleo](#paleo)
 - [Contributing](#contributing)
 
 ## [javaslang-jackson](https://github.com/javaslang/javaslang-jackson)
@@ -29,6 +30,10 @@ Code generator for user-defined algebraic datatypes (aka sum types). Structural 
 ## [micro-javaslang](https://github.com/aol/micro-server/tree/master/micro-javaslang)
 
 Javaslang plugin for Microserver (which itself is a microservices configuration engine on top of Spring - optionally with Spring Boot) - configues Javaslang, javaslang-jackson, cyclops-javaslang and also some handy utilities for Functional Reactive Programming with Javaslang.
+
+## [paleo](https://github.com/netzwerg/paleo)
+
+Immutable Java 8 data frames with typed columns (including primitives).
 
 # Contributing
 
