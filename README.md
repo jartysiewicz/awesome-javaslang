@@ -39,7 +39,7 @@ Immutable Java 8 data frames with typed columns (including primitives).
 
 ## [checkid](https://checkid.io)
 
-Check id is a system designed for an automated detection and processing of identity documents.
+Check id is a system designed for an automated detection and processing of identity documents from scans and photographs.
 
 # Contributing
 
