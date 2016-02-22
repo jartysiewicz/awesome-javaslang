@@ -9,6 +9,7 @@ A list of awesome frameworks, libraries and software that is powered by Javaslan
     - [derive4j](#derive4j)
     - [micro-javaslang](#micro-javaslang)
     - [paleo](#paleo)
+    - [check.id](#check.id)
 - [Contributing](#contributing)
 
 ## [javaslang-jackson](https://github.com/javaslang/javaslang-jackson)
@@ -34,6 +35,10 @@ Javaslang plugin for Microserver (which itself is a microservices configuration 
 ## [paleo](https://github.com/netzwerg/paleo)
 
 Immutable Java 8 data frames with typed columns (including primitives).
+
+## [check.id](checkid.io)
+
+Check id is a system designed for an automated detection and processing of identity documents.
 
 # Contributing
 
