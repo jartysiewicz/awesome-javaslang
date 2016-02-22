@@ -37,7 +37,7 @@ Javaslang plugin for Microserver (which itself is a microservices configuration 
 
 Immutable Java 8 data frames with typed columns (including primitives).
 
-## [checkid](checkid.io)
+## [checkid](https://checkid.io)
 
 Check id is a system designed for an automated detection and processing of identity documents.
 
