@@ -4,6 +4,7 @@ A list of awesome frameworks, libraries and software that are powered by Javasla
 
 - [Awesome Javaslang](#awesome-javaslang)
     - [check.id](#checkid)
+    - [crony](#crony)
     - [cyclops-javaslang](#cyclops-javaslang)
     - [derive4j](#derive4j)
     - [javactic](#javactic)
@@ -11,12 +12,16 @@ A list of awesome frameworks, libraries and software that are powered by Javasla
     - [javaslang-jackson](#javaslang-jackson)
     - [micro-javaslang](#micro-javaslang)
     - [paleo](#paleo)
-    
+
 - [Contributing](#contributing)
 
 ## [checkid](https://checkid.io)
 
 Check id is a system designed for an automated detection and processing of identity documents from scans and photographs.
+
+## [crony](https://github.com/emmanueltouzery/crony)
+
+A java library to work with cron specifications. It can parse cron specifications, calculate dates of execution, and also programmatically create cron specifications and save them back to cron format strings.
 
 ## [cyclops-javaslang](https://github.com/aol/cyclops/tree/master/cyclops-javaslang)
 
